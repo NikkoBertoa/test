@@ -1,0 +1,15 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\nicol\\Desktop\\CrystalCavern\\Plugins\\UEOSC\\Source\\UEOSC\\UEOSC.Build.cs",
+		"C:\\Users\\nicol\\Desktop\\CrystalCavern\\Plugins\\VMC4UE\\Source\\VMC4UEEd\\VMC4UEEd.Build.cs",
+		"C:\\Users\\nicol\\Desktop\\CrystalCavern\\Plugins\\VMC4UE\\Source\\VMC4UE\\VMC4UE.Build.cs",
+		"C:\\Users\\nicol\\Desktop\\CrystalCavern\\Plugins\\VRM4U\\Source\\VRM4U\\VRM4U.Build.cs",
+		"C:\\Users\\nicol\\Desktop\\CrystalCavern\\Plugins\\VRM4U\\Source\\VRM4ULoader\\VRM4ULoader.Build.cs",
+		"C:\\Users\\nicol\\Desktop\\CrystalCavern\\Plugins\\VRM4U\\Source\\VRM4UEditor\\VRM4UEditor.Build.cs",
+		"C:\\Users\\nicol\\Desktop\\CrystalCavern\\Plugins\\VRM4U\\Source\\VRM4UImporter\\VRM4UImporter.Build.cs",
+		"C:\\Users\\nicol\\Desktop\\CrystalCavern\\Plugins\\VRM4U\\Source\\VRM4UMisc\\VRM4UMisc.Build.cs",
+		"C:\\Users\\nicol\\Desktop\\CrystalCavern\\Intermediate\\Source\\CrystalCavern.Build.cs",
+		"C:\\Users\\nicol\\Desktop\\CrystalCavern\\Intermediate\\Source\\CrystalCavern.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}

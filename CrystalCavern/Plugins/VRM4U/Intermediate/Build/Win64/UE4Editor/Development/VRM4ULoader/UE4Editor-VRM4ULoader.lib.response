@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VRM4ULoader.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\nicol\Desktop\BasicFeature_UE4\Intermediate\Build\Win64\BasicFeature_UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\nicol\Desktop\BasicFeature_UE4\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4ULoader\Module.VRM4ULoader.cpp.obj"
+"C:\Users\nicol\Desktop\BasicFeature_UE4\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4ULoader\Module.VRM4ULoader.gen.cpp.obj"
+"C:\Users\nicol\Desktop\BasicFeature_UE4\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4ULoader\Default.rc2.res"
+/OUT:"C:\Users\nicol\Desktop\BasicFeature_UE4\Plugins\VRM4U\Intermediate\Build\Win64\UE4Editor\Development\VRM4ULoader\UE4Editor-VRM4ULoader.lib"
+/INCLUDE:IMPLEMENT_MODULE_VRM4ULoader

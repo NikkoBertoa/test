@@ -1,0 +1,19 @@
+C:\Users\nicol\Desktop\BasicFeature_UE4\Plugins\UEOSC\Intermediate\Build\Win64\UE4Editor\Development\UEOSC\Definitions.UEOSC.h
+C:/Users/nicol/Desktop/BasicFeature_UE4/Plugins/UEOSC/Source/UEOSC/Source/UEOSCReceiver.cpp
+C:\Users\nicol\Desktop\BasicFeature_UE4\Plugins\UEOSC\Source\UEOSC\Source\../Include/UEOSCReceiver.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Networking\Public\Common/UdpSocketReceiver.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Serialization/ArrayReader.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Sockets\Public\Sockets.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Sockets\Public\SocketTypes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Sockets\Public\SocketSubsystem.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Sockets\Public\IPAddress.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Sockets\Public\AddressInfoTypes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Networking\Public\Interfaces/IPv4/IPv4Endpoint.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Networking\Public\Interfaces/IPv4/IPv4Address.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Networking\Public\Interfaces/IPv4/IPv4SubnetMask.h
+C:\Users\nicol\Desktop\BasicFeature_UE4\Plugins\UEOSC\Source\UEOSC\Include\UEOSCElement.h
+C:\Users\nicol\Desktop\BasicFeature_UE4\Plugins\UEOSC\Intermediate\Build\Win64\UE4Editor\Inc\UEOSC\UEOscElement.generated.h
+C:\Users\nicol\Desktop\BasicFeature_UE4\Plugins\UEOSC\Intermediate\Build\Win64\UE4Editor\Inc\UEOSC\UEOSCReceiver.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Networking\Public\Common/UdpSocketBuilder.h
+C:/Users/nicol/Desktop/BasicFeature_UE4/Plugins/UEOSC/Source/UEOSC/UEOSC.cpp
+C:\Users\nicol\Desktop\BasicFeature_UE4\Plugins\UEOSC\Source\UEOSC\UEOSC.h

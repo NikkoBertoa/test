@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VMC4UE.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\nicol\Desktop\BasicFeature_UE4\Intermediate\Build\Win64\BasicFeature_UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\nicol\Desktop\BasicFeature_UE4\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Development\VMC4UE\Module.VMC4UE.cpp.obj"
+"C:\Users\nicol\Desktop\BasicFeature_UE4\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Development\VMC4UE\Module.VMC4UE.gen.cpp.obj"
+"C:\Users\nicol\Desktop\BasicFeature_UE4\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Development\VMC4UE\Default.rc2.res"
+/OUT:"C:\Users\nicol\Desktop\BasicFeature_UE4\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Development\VMC4UE\UE4Editor-VMC4UE.lib"
+/INCLUDE:IMPLEMENT_MODULE_VMC4UE

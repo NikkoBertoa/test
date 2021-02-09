@@ -1,0 +1,63 @@
+C:\Users\nicol\Desktop\BasicFeature_UE4\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Development\VMC4UEEd\Definitions.VMC4UEEd.h
+C:/Users/nicol/Desktop/BasicFeature_UE4/Plugins/VMC4UE/Source/VMC4UEEd/Source/AnimGraphNode_ModifyVMC4UEBones.cpp
+C:\Users\nicol\Desktop\BasicFeature_UE4\Plugins\VMC4UE\Source\VMC4UEEd\Source\../Include/AnimGraphNode_ModifyVMC4UEBones.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Public\EdGraph/EdGraphNodeUtils.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\AnimGraph\Classes\AnimGraphNode_SkeletalControlBase.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\AnimGraph\Classes\AnimGraphNode_Base.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\UnrealEd\Public\Editor.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\UnrealEd\Classes\Editor/EditorEngine.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\UnrealEd\Classes\Editor/Transactor.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Serialization/ArchiveSerializedPropertyChain.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\Transactor.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\UnrealEd\Classes\Settings/LevelEditorViewportSettings.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\UnrealEd\Public\Viewports.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\UnrealEd\Classes\Editor/UnrealEdTypes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\UnrealEdTypes.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\LevelEditorViewportSettings.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetPlatform.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetDevice.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Developer\TargetPlatform\Public\Interfaces/TargetDeviceId.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetPlatformManagerModule.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\UnrealEd\Public\PlayInEditorDataTypes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\PlayInEditorDataTypes.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\EditorSubsystem\Public\EditorSubsystem.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\EditorSubsystem\EditorSubsystem.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\EditorEngine.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\UnrealEd\Public\Subsystems/ImportSubsystem.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ImportSubsystem.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\BlueprintGraph\Classes\K2Node.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\BlueprintGraph\Public\BlueprintNodeSignature.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraph\AnimGraphNode_Base.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraph\AnimGraphNode_SkeletalControlBase.generated.h
+C:\Users\nicol\Desktop\BasicFeature_UE4\Plugins\VMC4UE\Source\VMC4UEEd\Include\../../VMC4UE/Include/AnimNode_ModifyVMC4UEBones.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\AnimGraphRuntime\Public\BoneControllers/AnimNode_SkeletalControlBase.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Animation/InputScaleBias.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputScaleBias.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraphRuntime\AnimNode_SkeletalControlBase.generated.h
+C:\Users\nicol\Desktop\BasicFeature_UE4\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Inc\VMC4UE\AnimNode_ModifyVMC4UEBones.generated.h
+C:\Users\nicol\Desktop\BasicFeature_UE4\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Inc\VMC4UEEd\AnimGraphNode_ModifyVMC4UEBones.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\UnrealEd\Public\UnrealWidget.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\AnimGraph\Public\AnimNodeEditModes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\UnrealEd\Public\Kismet2/CompilerResultsLog.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\UnrealEd\Public\EdGraphToken.h
+C:/Users/nicol/Desktop/BasicFeature_UE4/Plugins/VMC4UE/Source/VMC4UEEd/Source/AnimGraphNode_ModifyVMC4UEMorph.cpp
+C:\Users\nicol\Desktop\BasicFeature_UE4\Plugins\VMC4UE\Source\VMC4UEEd\Source\../Include/AnimGraphNode_ModifyVMC4UEMorph.h
+C:\Users\nicol\Desktop\BasicFeature_UE4\Plugins\VMC4UE\Source\VMC4UEEd\Include\../../VMC4UE/Include/AnimNode_ModifyVMC4UEMorph.h
+C:\Users\nicol\Desktop\BasicFeature_UE4\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Inc\VMC4UE\AnimNode_ModifyVMC4UEMorph.generated.h
+C:\Users\nicol\Desktop\BasicFeature_UE4\Plugins\VMC4UE\Intermediate\Build\Win64\UE4Editor\Inc\VMC4UEEd\AnimGraphNode_ModifyVMC4UEMorph.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\GraphEditor\Public\GraphEditorActions.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\UnrealEd\Public\ScopedTransaction.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\AnimGraph\Classes\AnimationGraphSchema.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\BlueprintGraph\Classes\EdGraphSchema_K2.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\EdGraphSchema_K2.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraph\AnimationGraphSchema.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\BlueprintGraph\Public\BlueprintActionDatabaseRegistrar.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\BlueprintGraph\Public\BlueprintActionDatabase.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\UnrealEd\Public\TickableEditorObject.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\UnrealEd\Public\Kismet2/BlueprintEditorUtils.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_EditablePinBase.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_EditablePinBase.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor/ClassViewer/Public/ClassViewerModule.h
+C:/Users/nicol/Desktop/BasicFeature_UE4/Plugins/VMC4UE/Source/VMC4UEEd/VMC4UEEd.cpp
+C:\Users\nicol\Desktop\BasicFeature_UE4\Plugins\VMC4UE\Source\VMC4UEEd\VMC4UEEd.h

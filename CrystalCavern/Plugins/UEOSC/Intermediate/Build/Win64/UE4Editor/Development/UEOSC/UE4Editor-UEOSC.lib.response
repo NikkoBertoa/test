@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UEOSC.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\nicol\Desktop\BasicFeature_UE4\Intermediate\Build\Win64\BasicFeature_UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\nicol\Desktop\BasicFeature_UE4\Plugins\UEOSC\Intermediate\Build\Win64\UE4Editor\Development\UEOSC\Module.UEOSC.cpp.obj"
+"C:\Users\nicol\Desktop\BasicFeature_UE4\Plugins\UEOSC\Intermediate\Build\Win64\UE4Editor\Development\UEOSC\Module.UEOSC.gen.cpp.obj"
+"C:\Users\nicol\Desktop\BasicFeature_UE4\Plugins\UEOSC\Intermediate\Build\Win64\UE4Editor\Development\UEOSC\Default.rc2.res"
+/OUT:"C:\Users\nicol\Desktop\BasicFeature_UE4\Plugins\UEOSC\Intermediate\Build\Win64\UE4Editor\Development\UEOSC\UE4Editor-UEOSC.lib"
+/INCLUDE:IMPLEMENT_MODULE_UEOSC
