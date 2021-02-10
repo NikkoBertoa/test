@@ -53,9 +53,6 @@ CrystalCavern/Build/*
 CrystalCavern/Build/*/**
 !CrystalCavern/Build/*/PakBlacklist*.txt
 
-# Do not ignore assimp in VRM4U
-!CrystalCavern/Plugins/VRM4U/ThirdParty/*
-
 # Don't ignore icon files in Build
 !CrystalCavern/Build/**/*.ico
 
@@ -71,3 +68,6 @@ CrystalCavern/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 CrystalCavern/DerivedDataCache/*
+
+# Do not ignore assimp in VRM4U
+!CrystalCavern/Plugins/VRM4U/ThirdParty/**
